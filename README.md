@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ridhwan99
-- 👀 I’m interested in python, dapps
+- 👀 I’m interested in python, nuxtjs, spa, web applications.
 - 🌱 I’m currently learning solidity for smart contracts
-- 💞️ I’m looking to collaborate on smart python scripts, django apps.
+- 💞️ I’m looking to collaborate on smart python scripts, nuxtjs web applications.
 - 📫 How to reach me adeoluwalawal@outlook.com
 
 <!---
